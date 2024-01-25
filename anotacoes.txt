@@ -1,0 +1,26 @@
+"Killer Game Programming in Java" por Andrew Davison
+
+    Um livro abrangente que cobre o desenvolvimento de jogos em Java desde os fundamentos até
+    tópicos mais avançados.
+
+"Pro Java 6 3D Game Development" por Andrew Davison
+
+    Um livro mais avançado focado em programação 3D em Java para jogos.
+
+"Beginning Java Game Development with LibGDX" por Lee Stemkoski
+
+    Este livro se concentra no uso da biblioteca LibGDX para desenvolver jogos 2D em Java.
+
+"Developing Games in Java" por David Brackeen, Bret Barker e Lawrence Vanhelsuwe
+
+    Um livro que cobre a criação de jogos em Java, com foco em programação de jogos e gráficos.
+
+"Pro Java 9 Games Development: Leveraging the JavaFX APIs" por Wallace Jackson
+
+    Explora o desenvolvimento de jogos usando a API JavaFX no contexto da versão Java 9.
+
+"Building Scalable and High-Performance Java Web Applications Using J2EE Technology" por Greg Barish e Gary McGraw
+
+    Embora não seja exclusivamente sobre desenvolvimento de jogos, este livro fornece 
+    insights sobre o desenvolvimento Java para aplicações web escaláveis, o que pode ser 
+    útil para jogos online.
